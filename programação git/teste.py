@@ -10,5 +10,5 @@ abaixo
 
 
 print("Bem-Vindo")
-sara = input("qual seu nome?")
-print ("Bem-Vindo",', sara+!')
+name = input("qual seu nome?")
+print("Bem-Vindo,", name + "!")
